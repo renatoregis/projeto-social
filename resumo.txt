@@ -1,0 +1,12 @@
+12=> definir main e sections do celular e dos icones das redes sociais 
+- criar link favicon e style.css 
+- em style iniciar o @charset "UTF-8" 
+- configurações globais para zerar margin e padding para não alterar 
+- configurar html e body a altura total do navegador e a largura total 
+- definbir o main com posição relativa para definir a cetralização e heigth total
+- configurar a sections do telefone, altura, largura, posição absoluto para mexer no top e left, trasform para centralizar o telefone - para cenralizar uma box é preciso que o container de fora tenha position - relative e o de dentro position absolute.
+- inserir a imagem do telefone pelo backgroud url(), no-repeat para não repetir a imagem
+- no body inserir a imagem de fundo atraves do backgroud url(), no-repeat para não repetir, top para alinhar ao topo, center para alinhar ao centro, para cobrir a tela inteira usar o backgroud cover, para manter ele fixo sem ter rolagem usar o backgroud attachment fixed.
+13=> criou-se um html novo com nome de home para carregar a tela de app do celular, configurou margin, padding, heigth e width
+- criou-se um iframe no html index na section do telefone chamando o home, nomeou e criou um id.
+- 
