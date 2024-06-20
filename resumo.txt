@@ -11,7 +11,6 @@
 - criou-se um iframe no html index na section do telefone chamando o home, nomeou e criou um id.
 - criou um estilo para iframe#tela, mudou para positon relative para poder mecher no top e no left, posicionando o home dentro da tela do celular.
 - colocar o backgroud size no cover para colocar toda a imagem dentro da tela.
-- 
 14=> criando os botões com link, na section redes-sociais criar os links para cada botão, 
 - incluir o target com o nome do iframe para carregar dentro no iframe, - acrescentar a imagem do logo da pagina social, 
 - no estilo criar uma section com o id de redes-sociais e img que está dentro de redes... 
@@ -21,3 +20,4 @@
 - no estilo com text-aling alinhar à esquerda na secton redes-sociais somente
 - em estilo criar style para img:houver, alterar somente quando o mouse passar em cima da logo e alterar borda, fazer mexer... tudo com trasform
 - usar transition para o transform para demorar um pouco mais para fazer a transição de um lugar para outro.
+15=> 
