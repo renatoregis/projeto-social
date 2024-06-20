@@ -20,4 +20,17 @@
 - no estilo com text-aling alinhar à esquerda na secton redes-sociais somente
 - em estilo criar style para img:houver, alterar somente quando o mouse passar em cima da logo e alterar borda, fazer mexer... tudo com trasform
 - usar transition para o transform para demorar um pouco mais para fazer a transição de um lugar para outro.
-15=> 
+15=> criar um arquivo com o nome das redes sociais
+- indexar uma imagem de tela do youtube, criar um link para acessar o canal do youtube, não esquecer de colocar para abri em outra aba pelo target _blanck
+- no html do youtube configurar o estilo zerando margim e padding, 
+- configurar o display block para o botão acessar ficar em baixo da imagem de tela
+- colocar cor de fundo que ocupará a tela inteira e será a cor do botão de acessar
+- colocar um padding para a letra acessar deslocar um pouco mais
+- cetralizar a palavra acessar, retirar sublinhados, colocar cor na palavra para destacar, 
+- definir largura da imagem relacionada à tela
+- esconder a barra de rolagem com ::webkit-scrollbar
+- configurar o botão youtube para abrir as imagens no iframe
+- destacar a cor do botão quando passar o mouse em cima atraves do houver
+- copiar o estilo do youtube e colocar em um novo arquivo somente para os estidos das imagens
+- ajustar o link do css novo para facilitar a criação dos outros arquivos da rede social
+16=> gerando as fitas de imagens para o iframe
